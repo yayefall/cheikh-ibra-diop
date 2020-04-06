@@ -1,0 +1,27 @@
+.tableau
+{
+    width: 100%;
+    height: 650px;
+    background-image: url(profi2.jpeg);
+    font-family: 'Times New Roman', Times, serif;
+    
+
+    
+}
+.valider
+{
+ background-color: rgb(0, 255, 191);
+ height: 30px;
+ width: 80px;
+ border-radius: 5px;
+ 
+}
+
+.initialiser
+{
+ background-color: rgb(0, 255, 191);
+ height: 30px;
+ width: 110px;
+ border-radius: 5px;
+ 
+}
